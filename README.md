@@ -16,4 +16,5 @@ Our lab is built upon three foundational principles:
 
 ## License
 The lab infrastructure itself is licensed under the [Apache License 2.0](LICENSE). 
+
 *Note: Research outputs, models, and datasets may have separate licenses defined independently as they are released.*
