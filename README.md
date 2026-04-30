@@ -3,7 +3,31 @@
 The operational infrastructure for an AI-native independent research lab focused on AI in women's health. Our mission is to accelerate discoveries and improve health outcomes for women by leveraging artificial intelligence, rigorous research methodologies, and collaborative open science.
 
 ## Table of Contents
-<!-- placeholder for future sections -->
+
+- [Status](#status)
+- [Philosophy](#philosophy)
+- [License](#license)
+- [Part 1: Lab Description](#part-1-lab-description)
+  - [What This Lab Is](#what-this-lab-is)
+  - [Mission](#mission)
+  - [Operating Principles](#operating-principles)
+  - [Domain Focus](#domain-focus)
+  - [Operational Stack](#operational-stack)
+  - [Roles](#roles)
+  - [What This Lab Produces](#what-this-lab-produces)
+- [Part 2: Step-by-Step Execution Plan](#part-2-step-by-step-execution-plan)
+  - [Phase 1: Foundation](#phase-1-foundation)
+  - [Phase 2: LLM Runtime](#phase-2-llm-runtime)
+  - [Phase 3: Knowledge Base (`lab-brain`)](#phase-3-knowledge-base-lab-brain)
+  - [Phase 4: Developer Experience](#phase-4-developer-experience)
+  - [Phase 5: Contributor Infrastructure](#phase-5-contributor-infrastructure)
+  - [Phase 6: Automation](#phase-6-automation)
+  - [Phase 7: Public Presence](#phase-7-public-presence)
+  - [Phase 8: Governance](#phase-8-governance)
+- [Part 3: Suggested Build Schedule](#part-3-suggested-build-schedule)
+- [Part 4: Minimum Viable Lab](#part-4-minimum-viable-lab)
+- [Part 5: What Success Looks Like](#part-5-what-success-looks-like)
+- [Part 6: One Guiding Principle](#part-6-one-guiding-principle)
 
 ## Status
 **under construction**
